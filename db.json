@@ -1,0 +1,29 @@
+{
+  "childrens": [
+    {
+      "id": "africans",
+      "situation": "critical",
+      "donate": 0
+    },
+    {
+      "id": "mongolians",
+      "situation": "time-to-time",
+      "donate": 0
+    },
+    {
+      "id": "russians",
+      "situation": "time-to-time",
+      "donate": 0
+    },
+    {
+      "id": "ukranians",
+      "situation": "critical",
+      "donate": 0
+    },
+    {
+      "id": "chineeses",
+      "situation": "not bad",
+      "donate": 0
+    }
+  ]
+}
